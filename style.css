@@ -70,3 +70,7 @@ input{
   opacity: 0;
   z-index: 1;
 }
+
+.upload{
+  background-color: #a74901;
+}
